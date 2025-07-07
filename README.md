@@ -14,4 +14,4 @@ The dataset includes funding rounds (Seed to Series C) for AI companies from 202
 -Google Colab / Jupyter Notebook
 *Run the Project
 Open the (.ipynb) notebook in Google Colab or Jupyter to explore the code, data, and charts.
-*Let me know if you'd like to collaborate or have feedback!
+*Let me know if you'd like to collaborate or have feedback
